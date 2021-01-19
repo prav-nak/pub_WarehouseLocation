@@ -1,0 +1,5 @@
+include/* filter=git-crypt diff=git-crypt
+src/* filter=git-crypt diff=git-crypt
+symbolic_python/* filter=git-crypt diff=git-crypt
+*.py filter=git-crypt diff=git-crypt
+*.ipynb filter=git-crypt diff=git-crypt
